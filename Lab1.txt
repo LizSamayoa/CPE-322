@@ -1,0 +1,5 @@
+Hello Lab 1!
+This is a text file I created in github
+I used git clone to get the repository and nano to open and edit the file.
+When I am done I will git push to put it in my repo.
+
